@@ -101,7 +101,7 @@ paginate_path: "blog/page:num"
 collections:
   portfolio:
     output: true
-    permalink: /:collection/:name
+    permalink: /projects/:name
 
 
 # BUILD SETTINGS
