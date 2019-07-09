@@ -4,7 +4,7 @@ title: OFDM
 hide_title: true
 img: "assets/img/portfolio/OFDM.gif"
 date: April, 08 2014
-tags: [Lorem]
+tags: [Projects]
 ---
 
 

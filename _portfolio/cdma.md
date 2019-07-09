@@ -4,7 +4,7 @@ title: CDMA(Code Division Multiple Access)
 hide_title: true
 img: "assets/img/portfolio/cdma.gif"
 date: April, 08 2014
-tags: [Lorem]
+tags: [Projects]
 ---
 
 

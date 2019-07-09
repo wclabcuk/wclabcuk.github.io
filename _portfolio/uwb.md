@@ -4,7 +4,7 @@ title: UWB
 hide_title: true
 img: "assets/img/portfolio/uwb.gif"
 date: April, 08 2014
-tags: [Lorem]
+tags: [Projects]
 ---
 
 

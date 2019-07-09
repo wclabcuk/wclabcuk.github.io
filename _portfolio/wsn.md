@@ -4,7 +4,7 @@ title: WSN
 hide_title: true
 img: "assets/img/portfolio/wsn.gif"
 date: April, 08 2014
-tags: [Lorem]
+tags: [Projects]
 ---
 
 

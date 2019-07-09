@@ -2,22 +2,24 @@
 layout: page
 title: Publications
 permalink: /publications/
-feature-img: "assets/img/pexels/school.jpeg"
-tags: [Abouts]
+feature-img: "assets/img/pexels/retro-school2.jpeg"
+tags: [Publications]
 ---
 
 # Domestic (Conference)
 
-● 한국통신학회 하계학술대회, “그린에너지 조명시스템을 위한 역률측정에 관한 연구,” 김동훈, 정서현, 김명진, 최상호, 2014년 6월
-● 한국통신학회 추계학술대회, “Quorum-Sensing-Based Nano-Communication Network,” S. P. Tissera, , 최상호, 2013년 11월
-● 대한전자공학회 하계학술대회, “불루투스 모듈 및 안드로이드 APP을 이용한 실시간 전력품질모니터링 시스템,” 임호균, 이승현, 김서휘, 최상호, 2012년 6월
-● 대한전자공학회 하계학술대회, “그린에너지 조명시스템을 위한 전력품질,” 최진원, 유형모, 최상호, 2012년 6월
-● 대한전자공학회 추계학술대회, “Wavelet 변환을 이용한 전력품질 측정 알고리즘,” 원정현, 유형모, 이웅, 최상호, 2011년 11월
-● 대한전자공학회 제7회 국방기술학술대회, “동기성능분석용 시뮬레이터 설계,” 이바름, 정은경, 최상호, 2011년 7월
-● 한국통신학회 하계학술대회, “Matlab Simulink 를 활용한 Link-16 동기 성능분석용 시뮬레이터,” 이바름, 정은경, 최상호, 2011년 6월
+	● 한국통신학회 하계학술대회, “그린에너지 조명시스템을 위한 역률측정에 관한 연구,” 김동훈, 정서현, 김명진, 최상호, 2014년 6월
+	● 한국통신학회 추계학술대회, “Quorum-Sensing-Based Nano-Communication Network,” S. P. Tissera, , 최상호, 2013년 11월
+	● 대한전자공학회 하계학술대회, “불루투스 모듈 및 안드로이드 APP을 이용한 실시간 전력품질모니터링 시스템,” 임호균, 이승현, 김서휘, 최상호, 2012년 6월
+	● 대한전자공학회 하계학술대회, “그린에너지 조명시스템을 위한 전력품질,” 최진원, 유형모, 최상호, 2012년 6월
+	● 대한전자공학회 추계학술대회, “Wavelet 변환을 이용한 전력품질 측정 알고리즘,” 원정현, 유형모, 이웅, 최상호, 2011년 11월
+	● 대한전자공학회 제7회 국방기술학술대회, “동기성능분석용 시뮬레이터 설계,” 이바름, 정은경, 최상호, 2011년 7월
+	● 한국통신학회 하계학술대회, “Matlab Simulink 를 활용한 Link-16 동기 성능분석용 시뮬레이터,” 이바름, 정은경, 최상호, 2011년 6월
 
 # International (Conference)
 
+	● PQ2019, " Anomaly Detection in Power Quality Measurements Using ProximityBased Unsupervised Machine Learning Techniques," 2019. 06, R. Punmiya, O. Zyabkina, S. Choe, J. Meyer
+	● IEEE NANO2018, "Stochastic analytical model of nanonetwork synchronization using quorum sensing," 2018. 07, P.S.S. Tissera and S. Choe
 	● IEEE ICACT2013, “Simulator for Tactical Data Link System with Anti-Jamming Capability,” 2013. 02, B. Lee, E. Jeong, S. Choe.
 	● IEEE ISPLC2013, “Cluster-based MAC and Resource Management for Quasi-Stationary Broadband Power Line Communication Networks,” 2013. 03, S. Choe, J. Yoo, Y. Louet.
 	● IARIA Energy2013, “Power Line Communication using STC/SFC/STFC over Statistical Indoor Power Line Channels,” 2013. 03, J. Yoo, S. Choe.
@@ -33,6 +35,7 @@ tags: [Abouts]
 
 # Domestic (Journals)
 
+	● 백승준외, S. Choe, “이온선택성전극을 활용한 모바일 수질 모니터링 시스템,” 대한전자공학회논문지, vol. 55, no. 2, pp 29-38, Feb. 2018
 	● 임호균, 김서휘, 이승현, 최상호, “안드로이드 앱과 MCU를 이용한 저가형 원격 전원품질이상 감시 시스템,” 전자공학회논문지, 50권, 9호, pp. 144-155, 2013년 9월
 	● 이바름, 정은경, 최상호, “재밍환경하에 Link-16 시뮬레이터 설계 및 시간동기 유무에 따른 성능분석,” Telecom Review, 23권, 2호, pp. 261-275, 2013년 4월
 	● 유형모, 최진원, 최상호, “LED 기반 그린에너지 조명시스템을 위한 전력품질 측정,” 전자공학회논문지, 50권, 2호, pp. 174-184, 2013년 2월
@@ -51,6 +54,9 @@ tags: [Abouts]
 
 # International (Journals)
 
+	● R. Punmiya and S. Choe, “Time of use based electricity theft detection in smart grid using gradient boosting classifier,” IEEE J. on Selected Areas in Commun.,June 2019 (Submitted).
+	● R. Punmiya and S. Choe, “Energy Theft Detection using gradient boosting theft detector with feature engineering-based preprocessing,” IEEE Trans. Smart Grid, vol. 10, no. 2, pp. 2326-2329, March 2019.
+	● P.S.S. Tissera and S. Choe, “Quorum Sensing-based Nanonetwork Synchronization,” IEEE Wireless Commun. Lett., Accepted (early access), March. 2019.
 	● J. Yoo and S. Choe, “Crosstalk Ratio-based Adaptive 2×2 MIMO-OFDM PLC,” IET Electron. Lett. (SCI), vol. 50, no. 22, pp. 1599-1600, Oct. 2014.
 	● J. Yoo and S. Choe, “Performance of Space-Time-Frequency Coding over Indoor Power Line Channels,” IEEE Trans. Commun. (SCI), vol. 62, no. 9, pp. 3326-3335, Sept. 2014.
 	● S. Choe and J. Yoo, “Space-Time/Space-Time-Frequency-Coding-Based MIMO-OFDM over Power Line Channels,” Electronics Letters (SCI), vol. 48, no. 16, pp. 999-1000, Aug. 2012.

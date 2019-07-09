@@ -4,7 +4,7 @@ title: BiMCN
 hide_title: true
 img: "assets/img/portfolio/nanonet.png"
 date: April, 08 2014
-tags: [Lorem]
+tags: [Projects]
 ---
 
 
